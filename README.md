@@ -30,5 +30,7 @@ This setup requires just kitty, fish, fastfetch, ImageMagick, niri and noctalia-
 > And yes. Kitty config is indeed from End-4, Illogical Impulse. So is fish
 
 >SCREENSHOT
-
+<img width="1366" height="768" alt="preview3" src="https://github.com/user-attachments/assets/a2c0f0cc-ae5e-4183-bc1f-ca02c2bba059" />
+<img width="1366" height="768" alt="preview2" src="https://github.com/user-attachments/assets/1d037680-5fb1-4709-96a1-7dcf583e6f01" />
+<img width="1366" height="768" alt="preview1" src="https://github.com/user-attachments/assets/62d6ef1a-40ad-4c0e-bf6e-d9dd39af221f" />
 

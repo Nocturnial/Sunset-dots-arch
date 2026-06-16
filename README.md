@@ -18,14 +18,12 @@ This setup requires just kitty, fish, fastfetch, ImageMagick, niri and noctalia-
 
  Simply clone this repo and cd into it:
 
- ''' Terminal
- 
+ ```Terminal
  git clone https://github.com/Nocturnial/Stuniri-Dots/
-
-''' Terminal
- 
+ ```
+ ```Terminal
  cd ~/Stuniri-Dots/
- 
+ ```
  Then just copy and paste the files (except readme and license) to your ~/.config/ folder.
 
 > Now 5 months older. Yay.
